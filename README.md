@@ -1,6 +1,7 @@
 # Kunal Prajapati — Portfolio
 
-Live site: [kunaltab.github.io/portfolio](https://kunaltab.github.io/portfolio/)
+Live site: [kunaltab.github.io/portfolio](kunalxyz.vercel.app/
+)
 
 Personal portfolio website built to showcase my data analytics work, dashboards, and technical projects. Designed with a custom Neo-Brutalist interface, light/dark themes, and interactive visual elements.
 
